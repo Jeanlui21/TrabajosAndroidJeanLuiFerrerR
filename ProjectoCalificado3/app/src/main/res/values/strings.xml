@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectoCalificado3</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Notas</string>
+    <string name="title_dashboard">Favoritos</string>
+    <string name="title_notifications">Archivados</string>
+</resources>
